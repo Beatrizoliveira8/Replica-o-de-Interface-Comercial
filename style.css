@@ -1,8 +1,9 @@
 .azul {
-    padding: 150px;
+    padding: 200px;
     margin: 10px;
     background-color: rgb(183, 222, 253);
     box-sizing: border-box;
+    padding-right: 900px;
 }
 
 .flex {
