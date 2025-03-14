@@ -1,11 +1,15 @@
 .azul {
-    padding: 200px;
+    padding: 150px;
     margin: 10px;
     background-color: rgb(183, 222, 253);
     box-sizing: border-box;
-    padding-right: 900px;
+    padding-right: 800px;
 }
 
 .flex {
     display: flex;
+}
+
+.button{
+
 }
