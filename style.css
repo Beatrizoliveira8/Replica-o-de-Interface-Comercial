@@ -4,6 +4,7 @@
     background-color: rgb(215, 232, 247);
     box-sizing: border-box;
     padding-right: 800px;
+    border-radius: 10px;
 }
 
 .flex {
