@@ -53,6 +53,10 @@ section {
 #transacoes {
   display: block;
 }
+
+#compras {
+  display: block;
+}
   
   .dot {
     cursor: pointer;
