@@ -1,18 +1,29 @@
 .azul {
-    padding: 150px;
-    margin: 10px;
     background-color: rgb(215, 232, 247);
-    box-sizing: border-box;
-    padding-right: 800px;
 }
 
 .flex {
     display: flex;
+    justify-content: space-between;
 }
 
-img {
-    width: 150%; 
+section {
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 100%;
+    max-width: 200px;
+}
+
+.logo img {
+    width: 100%;
     height: auto;
-} 
-
-
+}
