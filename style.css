@@ -82,3 +82,10 @@ div.foto {
   background-color: rgb(255, 255, 255);
   border-radius: 5%;
 }
+
+table, th, td {
+  background-color: white;
+  border-radius: 10px;
+  border-spacing: 20px;
+
+}
