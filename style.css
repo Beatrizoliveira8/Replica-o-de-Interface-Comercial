@@ -81,6 +81,7 @@ div.foto {
   width: 110px;
   background-color: rgb(255, 255, 255);
   border-radius: 5%;
+  text-align: center;
 }
 
   table, th, td {
